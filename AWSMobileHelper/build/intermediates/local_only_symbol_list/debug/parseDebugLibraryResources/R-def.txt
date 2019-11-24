@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+attr? button_style
+attr? text
+id large
+id small
+string sign_in_canceled_message_format
+string sign_in_failure_dialog_title
+string sign_in_failure_message_format
+styleable SignInButton text button_style

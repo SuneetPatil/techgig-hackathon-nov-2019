@@ -1,0 +1,22 @@
+<resources>
+
+    <color name="splash_text">#362A24</color>
+    <color name="splash_background">#FDA329</color>
+
+    <color name="instructions_list_border_color">#FFDDDDDD</color>
+    <color name="grey_light">#F5F7F7</color>
+    <color name="text_border_default">#303232</color>
+    <color name="bots_request_color">#2C9AF7</color>
+    <color name="bots_response_color">#DCF8C6</color>
+
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#FFC107</color>
+
+
+    <color name="colorScannerBreaker">#C6C6C6</color>
+
+
+    <color name="green">#52D568</color>
+
+</resources>

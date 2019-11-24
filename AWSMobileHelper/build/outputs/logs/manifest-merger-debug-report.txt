@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:11:1-19:12
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:11:1-19:12
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:11:1-19:12
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:11:1-19:12
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:11:1-19:12
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:11:1-19:12
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:11:1-19:12
+	package
+		ADDED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:11:11-47
+		INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+		INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+		ADDED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:11:1-19:12
+		INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+		ADDED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:11:1-19:12
+		INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:12:11-69
+application
+ADDED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:14:5-17:19
+	android:supportsRtl
+		ADDED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:15:18-44
+	android:allowBackup
+		ADDED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml:14:18-44
+uses-sdk
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+		ADDED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+		INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+		ADDED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml
+		INJECTED from C:\Data\Android\Personal\VoicePayments\VoicePayments\AWSMobileHelper\src\main\AndroidManifest.xml

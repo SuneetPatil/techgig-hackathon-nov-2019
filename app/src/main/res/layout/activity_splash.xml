@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    tools:context=".activity.SplashActivity"
+    android:background="@color/splash_background"
+    >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        >
+
+    <ImageView
+        android:scaleType="fitCenter"
+        android:src="@drawable/appicon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="30dp"
+        >
+
+    </ImageView>
+
+        <TextView
+            android:id="@+id/splashText"
+            android:visibility="gone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:text="@string/splash_name"
+            android:textColor="@color/splash_text"
+            android:textSize="36dp" />
+
+        <ImageView
+            android:id="@+id/statusImage"
+            android:scaleType="fitCenter"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="0dp"
+            >
+
+        </ImageView>
+
+    </LinearLayout>
+
+</RelativeLayout>

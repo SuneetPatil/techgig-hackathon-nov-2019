@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/parent_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp">
+
+    <!--<ImageView-->
+        <!--android:id="@+id/image_view"-->
+        <!--android:layout_width="20dp"-->
+        <!--android:layout_height="20dp"-->
+       <!--/>-->
+
+    <LinearLayout
+    android:id="@+id/linear_layout"
+    android:orientation="vertical"
+        android:background="@color/green"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+
+    <TextView
+        android:id="@+id/sentMsg"
+        android:textSize="18sp"
+        android:text="sent msg"
+        android:textIsSelectable="true"
+        android:textColor="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+        <!--To support Image-->
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/leximageView"
+            android:src="@drawable/chat_bot"/>
+
+    <TextView
+        android:id="@+id/sentTime"
+        android:textSize="12sp"
+        android:text="12:00"
+        android:textColor="#b5b5b5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+
+
+
+</LinearLayout>
+
+
+
+</LinearLayout>
